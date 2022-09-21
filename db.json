@@ -325,6 +325,14 @@
       "participants": "test11@gmail.com-test1@gmail.com",
       "timestamp": 1663724430588,
       "id": 23
+    },
+    {
+      "name": "music",
+      "description": "Music lovers",
+      "color": "#f0b433",
+      "participants": "debnatharupbzs@gmail.com",
+      "timestamp": 1663724487083,
+      "id": 24
     }
   ],
   "projects": [
