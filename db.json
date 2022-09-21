@@ -1,0 +1,524 @@
+{
+  "users": [
+    {
+      "email": "sumit@learnwithsumit.com",
+      "password": "$2a$10$tGMlJhQmAnx7f4cIVY55FOtIRV91wjRwBhdpaANPoslku3P/aAjPK",
+      "name": "Sumit Saha",
+      "id": 1,
+      "image": "https://pbs.twimg.com/profile_images/874172653405327360/QyysiBs5_400x400.jpg"
+    },
+    {
+      "email": "akash@learnwithsumit.com",
+      "password": "$2a$10$Oc6jXnK6/pbSqmkngo/b.OhsU3JRf4OU1h9QwIoqz8ZUpG/hgHq72",
+      "name": "Akash Ahmed",
+      "id": 2,
+      "image": "https://media.istockphoto.com/photos/millennial-male-team-leader-organize-virtual-workshop-with-employees-picture-id1300972574?b=1&k=20&m=1300972574&s=170667a&w=0&h=2nBGC7tr0kWIU8zRQ3dMg-C5JLo9H2sNUuDjQ5mlYfo="
+    },
+    {
+      "email": "debnatharupbzs@gmail.com",
+      "password": "$2a$10$sbSh.kSW25zqbMDVfQwC7.n1i..eXj7R9o41QpyV5ZlSWJmQXOsfq",
+      "name": "Arup Debnath",
+      "id": 3,
+      "image": "https://img.freepik.com/free-photo/pleasant-looking-serious-man-stands-profile-has-confident-expression-wears-casual-white-t-shirt_273609-16959.jpg?w=2000"
+    },
+    {
+      "email": "a@gmail.com",
+      "password": "$2a$10$cccDxWySG4tePmCsemDfEeOgAhkC1oA0hGg/Xin6PhJEtpfm8JBi.",
+      "name": "A",
+      "id": 4,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKpSnnjRdHyWSUC8X8ZwkX8LMbLi0RL8ImpsiP5NyabRq5gB9UXox5TC9673VMhaA080w&usqp=CAU"
+    },
+    {
+      "email": "b@gmail.com",
+      "password": "$2a$10$55gJnYAqW3Sy2Xal9JOjZeC4bTh5NSIaM51LD9iBReHebK1Q76JRm",
+      "name": "B",
+      "id": 5,
+      "image": "https://media.istockphoto.com/photos/headshot-portrait-of-smiling-ethnic-businessman-in-office-picture-id1300512215?b=1&k=20&m=1300512215&s=170667a&w=0&h=LsZL_-vvAHB2A2sNLHu9Vpoib_3aLLkRamveVW3AGeQ="
+    },
+    {
+      "email": "test1@gmail.com",
+      "password": "$2a$10$tT4h6fG7muGpzoL8CCpw/Olg8wr6fXEIRJR3a4PvcTq1ok5d2lmnu",
+      "name": "Test User 1",
+      "id": 6,
+      "image": "https://expertphotography.b-cdn.net/wp-content/uploads/2020/08/profile-photos-4.jpg"
+    },
+    {
+      "email": "test2@gmail.com",
+      "password": "$2a$10$Cm1eGyV/UwcPNQEv0zQzLOM4/h4yi8yD9.V/Uf/y6.vhksHkUjJ52",
+      "name": "Test user 2",
+      "id": 7,
+      "image": "https://t4.ftcdn.net/jpg/03/64/21/11/360_F_364211147_1qgLVxv1Tcq0Ohz3FawUfrtONzz8nq3e.jpg"
+    },
+    {
+      "email": "test3@gmail.com",
+      "password": "$2a$10$GhfO/8fQQbMZBS8hV1qjUuhLSR9QBoGe/rw1gg7Sn.sDhXyXapdeK",
+      "name": "Test User 3",
+      "id": 8,
+      "image": "https://static.photocdn.pt/images/articles/2019/08/07/images/articles/2019/07/31/linkedin_profile_picture_tips-1.jpg"
+    },
+    {
+      "email": "test4@gmail.com",
+      "password": "$2a$10$/DKi3/cc8jFQSA7JJ/juD.CYjxJmBLXIQII9ZQk6.Zy6l5n2FSgVq",
+      "name": "Test User 4",
+      "id": 9,
+      "image": "https://i.pinimg.com/550x/dd/ff/3c/ddff3c65384be57306f54e62eb229316.jpg"
+    },
+    {
+      "email": "test5@gmail.com",
+      "password": "$2a$10$OyUS25j2aHmOW8xXtISRGeiBO9FqAdp7ST0WvS2egVmMd6iFJrnri",
+      "name": "Test User 5",
+      "id": 10,
+      "image": "https://static.photocdn.pt/images/articles/2019/08/07/images/articles/2019/07/31/best_linkedin_photos.jpg"
+    },
+    {
+      "email": "test6@gmail.com",
+      "password": "$2a$10$tvy1liwDmChiyzOf9y0eUek2HhKx5QWsgMaaosnDWzEnwDszmd04.",
+      "name": "Test User 6",
+      "id": 11,
+      "image": "https://images.squarespace-cdn.com/content/v1/5212b841e4b0348bfd223b9c/1489066584475-71OG0M7X9B1EZNLVHUWZ/image-asset.jpeg"
+    },
+    {
+      "email": "test7@gmail.com",
+      "password": "$2a$10$sOKsWz2hAd/2kkl6OBDUYeGPDFI.3VDRJX6JRq.J4QHC1Jh5vNm7W",
+      "name": "Test User 7",
+      "id": 12,
+      "image": "https://monteluke.com.au/wp-content/gallery/linkedin-profile-pictures/34213-MLS-David-Bily-018flin.jpg"
+    },
+    {
+      "email": "test8@gmail.com",
+      "password": "$2a$10$IM4s/92WHw/M881YV27QO.t4rT3.UGMKd/8Ybux.V7qhz2FycbrlK",
+      "name": "Test User 8",
+      "id": 13,
+      "image": "https://media.istockphoto.com/photos/close-up-portrait-of-brunette-woman-picture-id1154642632?b=1&k=20&m=1154642632&s=612x612&w=0&h=StstyxyDdiJQgUSTlaWv2ITXSMb029KzXijHtsaTQEg="
+    },
+    {
+      "email": "test9@gmail.com",
+      "password": "$2a$10$7ugGXlZFWxFjty/9z1HcLOhx.yTKDyACmbCLM7BxZ/YusIoVbGscG",
+      "name": "Test User 9",
+      "id": 14,
+      "image": "https://www.rd.com/wp-content/uploads/2017/09/01-shutterstock_476340928-Irina-Bg.jpg"
+    },
+    {
+      "email": "test10@gmail.com",
+      "password": "$2a$10$biwft44qcByD6F3wlgy4Fu9SA61ePLySfjrbm6vfH1VSUaWCfOVLq",
+      "name": "Test User 10",
+      "id": 15,
+      "image": "https://media.istockphoto.com/photos/headshot-studio-portrait-of-a-woman-in-profile-looking-at-the-camera-picture-id1305462732?b=1&k=20&m=1305462732&s=170667a&w=0&h=PrX1YvXLF8QwgvTmcqG6BFqe9ugwNb_rtsLi38R9pFs="
+    },
+    {
+      "email": "test11@gmail.com",
+      "password": "$2a$10$acOhnm9Uw3xRmeAC2Azlz.XvYGaoWS6HY8s7Dr7eD2TVRvKWdnPWe",
+      "name": "Test User 11",
+      "id": 16,
+      "image": "https://media.istockphoto.com/photos/overjoyed-pretty-asian-woman-look-at-camera-with-sincere-laughter-picture-id1311084168?b=1&k=20&m=1311084168&s=170667a&w=0&h=mE8BgXPgcHO1UjSmdWYa21NIKDzJvMrjOffy39Ritpo="
+    },
+    {
+      "email": "test12@gmail.com",
+      "password": "$2a$10$9IdXC3dHT/ZFRFdCgSvyT.g0ijbGla8hCqlvW09uWsomu9moYKBwS",
+      "name": "Test User 12",
+      "id": 17,
+      "image": "https://images.unsplash.com/photo-1607746882042-944635dfe10e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHByb2ZpbGUlMjBwaG90b3xlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    {
+      "email": "test13@gmail.com",
+      "password": "$2a$10$YsDxt2X6k6OA9ZJFl9dAaOSfISHbpe2jRe3A86DdOLdlOJAzh2ZNC",
+      "name": "Test User 13",
+      "id": 18,
+      "image": "https://121clicks.com/wp-content/uploads/2021/05/profile_photo.jpg"
+    },
+    {
+      "email": "test14@gmail.com",
+      "password": "$2a$10$vQXNNuau/1e9rKBqD1mK6uczfMLxgJKQDOddy7CwrbYvyjlWxc6zK",
+      "name": "Test User 14",
+      "id": 19,
+      "image": "https://media.istockphoto.com/photos/happy-young-african-american-woman-looking-at-camera-picture-id1351285381?b=1&k=20&m=1351285381&s=170667a&w=0&h=HZ5G7svWFop1lwLQsI1HuJ3xvlPkf4J4Y8DYyjVrAlE="
+    },
+    {
+      "email": "test15@gmail.com",
+      "password": "$2a$10$d7WJf6wpQp50TOUpH3ULouHO1KGcmdiZu2YqxrdzspRSqzIRJaPyC",
+      "name": "Test User 15",
+      "id": 20,
+      "image": "https://img.freepik.com/free-photo/portrait-young-asian-man-looking-confident-taking-selfie-while-standing-outdoors-street_58466-11951.jpg?w=2000"
+    }
+  ],
+  "teams": [
+    {
+      "name": "dev",
+      "description": "This is for the developers of this company",
+      "color": "#df3aab",
+      "participants": "debnatharupbzs@gmail.com",
+      "timestamp": 1663720883418,
+      "id": 1
+    },
+    {
+      "name": "design",
+      "description": "All the designers of this company",
+      "color": "#1d65d7",
+      "participants": "debnatharupbzs@gmail.com",
+      "timestamp": 1663720915662,
+      "id": 2
+    },
+    {
+      "name": "testing",
+      "description": "This team for software testing purpose",
+      "color": "#e69d00",
+      "participants": "debnatharupbzs@gmail.com-test11@gmail.com-test15@gmail.com",
+      "timestamp": 1663720972591,
+      "id": 3
+    },
+    {
+      "name": "reactjs",
+      "description": "React developers team!",
+      "color": "#2665f7",
+      "participants": "debnatharupbzs@gmail.com-test12@gmail.com",
+      "timestamp": 1663721037366,
+      "id": 4
+    },
+    {
+      "name": "golang",
+      "description": "All the golang lovers!!",
+      "color": "#ccc500",
+      "participants": "debnatharupbzs@gmail.com-test2@gmail.com-test1@gmail.com-test11@gmail.com",
+      "timestamp": 1663721066822,
+      "id": 5
+    },
+    {
+      "name": "quality",
+      "description": "This team is dedicated for quality assurance",
+      "color": "#00ffb3",
+      "participants": "debnatharupbzs@gmail.com",
+      "timestamp": 1663721133241,
+      "id": 6
+    },
+    {
+      "name": "javascript",
+      "description": "Hello js lovers!!",
+      "color": "#d10000",
+      "participants": "debnatharupbzs@gmail.com-test13@gmail.com",
+      "timestamp": 1663721170294,
+      "id": 7
+    },
+    {
+      "name": "redux",
+      "description": "Those who love redux",
+      "color": "#e400f5",
+      "participants": "debnatharupbzs@gmail.com-test4@gmail.com",
+      "timestamp": 1663721198402,
+      "id": 8
+    },
+    {
+      "name": "web",
+      "description": "Those who work with web technologies",
+      "color": "#05ff44",
+      "participants": "debnatharupbzs@gmail.com-test2@gmail.com-test3@gmail.com",
+      "timestamp": 1663721262028,
+      "id": 9
+    },
+    {
+      "name": "hr",
+      "description": "Hr department",
+      "color": "#948f00",
+      "participants": "debnatharupbzs@gmail.com-test1@gmail.com-test2@gmail.com",
+      "timestamp": 1663721322398,
+      "id": 10
+    },
+    {
+      "name": "marketing",
+      "description": "This is the marketing team of the company",
+      "color": "#ff7a7a",
+      "participants": "test2@gmail.com-debnatharupbzs@gmail.com-test11@gmail.com-test1@gmail.com",
+      "timestamp": 1663721974024,
+      "id": 11
+    },
+    {
+      "name": "mobile",
+      "description": "All the mobile app developers here!!",
+      "color": "#b366ff",
+      "participants": "test2@gmail.com",
+      "timestamp": 1663722045513,
+      "id": 12
+    },
+    {
+      "name": "salary",
+      "description": "Members for salary management",
+      "color": "#fda949",
+      "participants": "test2@gmail.com-test1@gmail.com-debnatharupbzs@gmail.com",
+      "timestamp": 1663722195207,
+      "id": 13
+    },
+    {
+      "name": "product",
+      "description": "All the product managers",
+      "color": "#e24b4b",
+      "participants": "test10@gmail.com-debnatharupbzs@gmail.com",
+      "timestamp": 1663722369277,
+      "id": 14
+    },
+    {
+      "name": "networking",
+      "description": "Networking-related issues will be discussed here",
+      "color": "#3dffc5",
+      "participants": "test10@gmail.com-debnatharupbzs@gmail.com-test1@gmail.com",
+      "timestamp": 1663722941854,
+      "id": 15
+    },
+    {
+      "name": "architecture",
+      "description": "lorem ipsum dolor",
+      "color": "#707aff",
+      "participants": "test10@gmail.com-debnatharupbzs@gmail.com-test12@gmail.com",
+      "timestamp": 1663723078731,
+      "id": 16
+    },
+    {
+      "name": "interview",
+      "description": "Interview board members",
+      "color": "#e953d5",
+      "participants": "test10@gmail.com-debnatharupbzs@gmail.com-test12@gmail.com",
+      "timestamp": 1663723182074,
+      "id": 17
+    },
+    {
+      "name": "business",
+      "description": "This is our business team",
+      "color": "#0fffb7",
+      "participants": "test1@gmail.com-debnatharupbzs@gmail.com",
+      "timestamp": 1663723319365,
+      "id": 18
+    },
+    {
+      "name": "random",
+      "description": "Random problems solving",
+      "color": "#ea4d4d",
+      "participants": "debnatharupbzs@gmail.com",
+      "timestamp": 1663723495335,
+      "id": 19
+    },
+    {
+      "name": "magazine",
+      "description": "Our yearly magazine team",
+      "color": "#33b1f0",
+      "participants": "debnatharupbzs@gmail.com-test1@gmail.com-test12@gmail.com-test11@gmail.com",
+      "timestamp": 1663723551835,
+      "id": 20
+    },
+    {
+      "name": "ios",
+      "description": "This is ios app developers team",
+      "color": "#f028a7",
+      "participants": "debnatharupbzs@gmail.com-test1@gmail.com-test11@gmail.com-test13@gmail.com",
+      "timestamp": 1663723738003,
+      "id": 21
+    },
+    {
+      "name": "android",
+      "description": "This is the android app developers' team",
+      "color": "#2c42ed",
+      "participants": "test1@gmail.com-test2@gmail.com-test10@gmail.com",
+      "timestamp": 1663723835600,
+      "id": 22
+    },
+    {
+      "name": "book",
+      "description": "All the book lovers",
+      "color": "#844fc4",
+      "participants": "test11@gmail.com-test1@gmail.com",
+      "timestamp": 1663724430588,
+      "id": 23
+    }
+  ],
+  "projects": [
+    {
+      "teamId": 6,
+      "teamName": "quality",
+      "teamColor": "#00ffb3",
+      "title": "lorem ipsum dolor",
+      "timestamp": 1663721352742,
+      "creatorEmail": "debnatharupbzs@gmail.com",
+      "creatorImage": "https://img.freepik.com/free-photo/pleasant-looking-serious-man-stands-profile-has-confident-expression-wears-casual-white-t-shirt_273609-16959.jpg?w=2000",
+      "stage": "backlog",
+      "participants": "debnatharupbzs@gmail.com",
+      "id": 1
+    },
+    {
+      "teamId": 1,
+      "teamName": "dev",
+      "teamColor": "#df3aab",
+      "title": "Project manager app",
+      "timestamp": 1663721461996,
+      "creatorEmail": "debnatharupbzs@gmail.com",
+      "creatorImage": "https://img.freepik.com/free-photo/pleasant-looking-serious-man-stands-profile-has-confident-expression-wears-casual-white-t-shirt_273609-16959.jpg?w=2000",
+      "stage": "backlog",
+      "participants": "debnatharupbzs@gmail.com",
+      "id": 2
+    },
+    {
+      "teamId": 3,
+      "teamName": "testing",
+      "teamColor": "#e69d00",
+      "title": "Testing a car management software",
+      "timestamp": 1663721488930,
+      "creatorEmail": "debnatharupbzs@gmail.com",
+      "creatorImage": "https://img.freepik.com/free-photo/pleasant-looking-serious-man-stands-profile-has-confident-expression-wears-casual-white-t-shirt_273609-16959.jpg?w=2000",
+      "stage": "backlog",
+      "participants": "debnatharupbzs@gmail.com-test15@gmail.com",
+      "id": 3
+    },
+    {
+      "teamId": 4,
+      "teamName": "reactjs",
+      "teamColor": "#2665f7",
+      "title": "Hello world Bangladesh",
+      "timestamp": 1663721570934,
+      "creatorEmail": "debnatharupbzs@gmail.com",
+      "creatorImage": "https://img.freepik.com/free-photo/pleasant-looking-serious-man-stands-profile-has-confident-expression-wears-casual-white-t-shirt_273609-16959.jpg?w=2000",
+      "stage": "backlog",
+      "participants": "debnatharupbzs@gmail.com-test12@gmail.com",
+      "id": 4
+    },
+    {
+      "teamId": 8,
+      "teamName": "redux",
+      "teamColor": "#e400f5",
+      "title": "Video application",
+      "timestamp": 1663721604636,
+      "creatorEmail": "debnatharupbzs@gmail.com",
+      "creatorImage": "https://img.freepik.com/free-photo/pleasant-looking-serious-man-stands-profile-has-confident-expression-wears-casual-white-t-shirt_273609-16959.jpg?w=2000",
+      "stage": "ready",
+      "participants": "debnatharupbzs@gmail.com-test4@gmail.com",
+      "id": 5
+    },
+    {
+      "teamId": 5,
+      "teamName": "golang",
+      "teamColor": "#ccc500",
+      "title": "Backend for a restaurant management system",
+      "timestamp": 1663721755854,
+      "creatorEmail": "debnatharupbzs@gmail.com",
+      "creatorImage": "https://img.freepik.com/free-photo/pleasant-looking-serious-man-stands-profile-has-confident-expression-wears-casual-white-t-shirt_273609-16959.jpg?w=2000",
+      "stage": "backlog",
+      "participants": "debnatharupbzs@gmail.com-test2@gmail.com-test1@gmail.com-test11@gmail.com",
+      "id": 6
+    },
+    {
+      "teamId": 11,
+      "teamName": "marketing",
+      "teamColor": "#ff7a7a",
+      "title": "Make our video app more popular",
+      "timestamp": 1663722083433,
+      "creatorEmail": "test2@gmail.com",
+      "creatorImage": "https://t4.ftcdn.net/jpg/03/64/21/11/360_F_364211147_1qgLVxv1Tcq0Ohz3FawUfrtONzz8nq3e.jpg",
+      "stage": "backlog",
+      "participants": "test2@gmail.com-debnatharupbzs@gmail.com-test11@gmail.com-test1@gmail.com",
+      "id": 7
+    },
+    {
+      "teamId": 12,
+      "teamName": "mobile",
+      "teamColor": "#b366ff",
+      "title": "Building Pathao App",
+      "timestamp": 1663722253568,
+      "creatorEmail": "test2@gmail.com",
+      "creatorImage": "https://t4.ftcdn.net/jpg/03/64/21/11/360_F_364211147_1qgLVxv1Tcq0Ohz3FawUfrtONzz8nq3e.jpg",
+      "stage": "backlog",
+      "participants": "test2@gmail.com",
+      "id": 8
+    },
+    {
+      "teamId": 14,
+      "teamName": "product",
+      "teamColor": "#e24b4b",
+      "title": "Lorem ipsum dolor",
+      "timestamp": 1663722404301,
+      "creatorEmail": "test10@gmail.com",
+      "creatorImage": "https://media.istockphoto.com/photos/headshot-studio-portrait-of-a-woman-in-profile-looking-at-the-camera-picture-id1305462732?b=1&k=20&m=1305462732&s=170667a&w=0&h=PrX1YvXLF8QwgvTmcqG6BFqe9ugwNb_rtsLi38R9pFs=",
+      "stage": "backlog",
+      "participants": "test10@gmail.com-debnatharupbzs@gmail.com",
+      "id": 9
+    },
+    {
+      "teamId": 21,
+      "teamName": "ios",
+      "teamColor": "#f028a7",
+      "title": "Uber app project",
+      "timestamp": 1663723908239,
+      "creatorEmail": "debnatharupbzs@gmail.com",
+      "creatorImage": "https://img.freepik.com/free-photo/pleasant-looking-serious-man-stands-profile-has-confident-expression-wears-casual-white-t-shirt_273609-16959.jpg?w=2000",
+      "stage": "backlog",
+      "participants": "debnatharupbzs@gmail.com-test1@gmail.com-test11@gmail.com-test13@gmail.com",
+      "id": 10
+    },
+    {
+      "teamId": 22,
+      "teamName": "android",
+      "teamColor": "#2c42ed",
+      "title": "Hello world project",
+      "timestamp": 1663724040374,
+      "creatorEmail": "test10@gmail.com",
+      "creatorImage": "https://media.istockphoto.com/photos/headshot-studio-portrait-of-a-woman-in-profile-looking-at-the-camera-picture-id1305462732?b=1&k=20&m=1305462732&s=170667a&w=0&h=PrX1YvXLF8QwgvTmcqG6BFqe9ugwNb_rtsLi38R9pFs=",
+      "stage": "backlog",
+      "participants": "test1@gmail.com-test2@gmail.com-test10@gmail.com",
+      "id": 11
+    },
+    {
+      "teamId": 21,
+      "teamName": "ios",
+      "teamColor": "#f028a7",
+      "title": "Hello world",
+      "timestamp": 1663724327670,
+      "creatorEmail": "test11@gmail.com",
+      "creatorImage": "https://media.istockphoto.com/photos/overjoyed-pretty-asian-woman-look-at-camera-with-sincere-laughter-picture-id1311084168?b=1&k=20&m=1311084168&s=170667a&w=0&h=mE8BgXPgcHO1UjSmdWYa21NIKDzJvMrjOffy39Ritpo=",
+      "stage": "doing",
+      "participants": "debnatharupbzs@gmail.com-test1@gmail.com-test11@gmail.com-test13@gmail.com",
+      "id": 12
+    },
+    {
+      "teamId": 23,
+      "teamName": "book",
+      "teamColor": "#844fc4",
+      "title": "Hello book lovers",
+      "timestamp": 1663724449261,
+      "creatorEmail": "test11@gmail.com",
+      "creatorImage": "https://media.istockphoto.com/photos/overjoyed-pretty-asian-woman-look-at-camera-with-sincere-laughter-picture-id1311084168?b=1&k=20&m=1311084168&s=170667a&w=0&h=mE8BgXPgcHO1UjSmdWYa21NIKDzJvMrjOffy39Ritpo=",
+      "stage": "backlog",
+      "participants": "test11@gmail.com-test1@gmail.com",
+      "id": 13
+    },
+    {
+      "teamId": 7,
+      "teamName": "javascript",
+      "teamColor": "#d10000",
+      "title": "Random projects",
+      "timestamp": 1663724669379,
+      "creatorEmail": "debnatharupbzs@gmail.com",
+      "creatorImage": "https://img.freepik.com/free-photo/pleasant-looking-serious-man-stands-profile-has-confident-expression-wears-casual-white-t-shirt_273609-16959.jpg?w=2000",
+      "stage": "backlog",
+      "participants": "debnatharupbzs@gmail.com-test13@gmail.com",
+      "id": 14
+    },
+    {
+      "teamId": 17,
+      "teamName": "interview",
+      "teamColor": "#e953d5",
+      "title": "Random interview",
+      "timestamp": 1663724891438,
+      "creatorEmail": "debnatharupbzs@gmail.com",
+      "creatorImage": "https://img.freepik.com/free-photo/pleasant-looking-serious-man-stands-profile-has-confident-expression-wears-casual-white-t-shirt_273609-16959.jpg?w=2000",
+      "stage": "backlog",
+      "participants": "test10@gmail.com-debnatharupbzs@gmail.com-test12@gmail.com",
+      "id": 15
+    },
+    {
+      "teamId": 20,
+      "teamName": "magazine",
+      "teamColor": "#33b1f0",
+      "title": "2022 yearly magazine",
+      "timestamp": 1663724932581,
+      "creatorEmail": "test12@gmail.com",
+      "creatorImage": "https://images.unsplash.com/photo-1607746882042-944635dfe10e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHByb2ZpbGUlMjBwaG90b3xlbnwwfHwwfHw%3D&w=1000&q=80",
+      "stage": "backlog",
+      "participants": "debnatharupbzs@gmail.com-test1@gmail.com-test12@gmail.com-test11@gmail.com",
+      "id": 16
+    }
+  ]
+}
